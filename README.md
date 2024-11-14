@@ -1,5 +1,12 @@
 [![MasterHead](https://wallpapers.com/images/hd/funny-garfield-coding-quote-6gppbj5wvt0k4yr4.jpg)]
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;DSA+Learner;MERN+Stack+Learner;IT+Enthusiast;Full+Stack+Developer;BlockChain+Enthusiast;Cloud+Engineer;" alt="Typing SVG" />
+
+</p>
+
+
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB3qSHRQdZ7zOQTtou3ecwgQjpHyjXcTThRQ&s">
 
