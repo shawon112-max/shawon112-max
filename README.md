@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;DSA+Learner;MERN+Stack+Learner;IT+Enthusiast;Full+Stack+Developer;BlockChain+Enthusiast;Cloud+Engineer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;DSA+Learner;MERN+Stack+Learner;IT+Enthusiast;BlockChain+Enthusiast;Cloud+Engineer;" alt="Typing SVG" />
 
 </p>
 
