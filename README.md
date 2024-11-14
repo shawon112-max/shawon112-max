@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapers.com/images/hd/funny-garfield-coding-quote-6gppbj5wvt0k4yr4.jpg)]
+![MasterHead](https://wallpapers.com/images/hd/funny-garfield-coding-quote-6gppbj5wvt0k4yr4.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
 
 <p align="center">
