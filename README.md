@@ -8,7 +8,7 @@
 
 
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a3/1c/81/a31c81f5c0aa65ba247000bf191fd7ac.gif"/>
+<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/a3/1c/81/a31c81f5c0aa65ba247000bf191fd7ac.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek249494" /> </p>
 
