@@ -19,6 +19,10 @@
 - 📫 How to reach me **abhi120730@gmail.com**
 
 - ⚡ Fun fact **I am a Funny webber🕸️🕸️**
+  
+- 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
+
+- 👀 I’m interested in **Web Development, Blockchain, and DSA**
 
 
   <div align="center">
