@@ -73,7 +73,6 @@
 	<tr>
 		<td><strong>Backend Development</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=django,py&theme=dark"></td>
-		
 	</tr>
   <tr>
 		<td><strong>Cloud Deployment</strong></td>
