@@ -38,6 +38,8 @@
 <h2 align='center'><i>Socials and Coding Profiles 💻</i></h2>
 <a href="https://www.linkedin.com/in/abhisheksingh2494/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+ 
 <a href="https://www.codechef.com/users/abhishek9424" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Abhishek2494/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
   <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
