@@ -36,6 +36,8 @@
 
 <div align="center">
 <h2 align='center'><i>Socials and Coding Profiles 💻</i></h2>
+
+ <br><br>
 <a href="https://www.linkedin.com/in/abhisheksingh2494/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
@@ -55,48 +57,88 @@
 
 <br><br>
 
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 <h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
+
+<br><br>
+
+ 
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js,latex&theme=dark"></td>
 	</tr>
 	<tr>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Backend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=py,django&theme=dark"></td>
+	</tr>
+	<tr>
+	<tr>
 		<td><strong>Database Technologies</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&theme=dark"></td>
+		<td><strong>Frameworks</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,django&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=django,py&theme=dark"></td>
-	</tr>
-  <tr>
 		<td><strong>Cloud Deployment</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=aws&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
+		<td><strong>Hosting Services</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Operating Systems</strong></td>
+		<td><strong>Developer Tools</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime&theme=dark"> <img style="object-fit:fill" height=40 src="https://i.ibb.co/YXhzhGC/Untitled-design-removebg-preview.png">
+	</td>
+	</tr>
+	<tr>
+		<td><strong>Debugging Tools</strong></td>
+		<td> <img  src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></td>
+	</tr>
+	<tr>
+		<td><strong>Collaboration Platforms</strong></td>
+		<td> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></td>
+	</tr>
+	<tr>
+		<td><strong>Operating System</strong></td>
 		<td>
-	 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+		 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		</td>
 	</tr>
 </table>
 </div>
-<br/>
 
 
 
 
 
+
+
+
+
+
+
+
+<br><br>
 
 
 
@@ -108,6 +150,8 @@
 
 <div align="center">
 <h2 align='center'><i>Github Analytics ⚙️</i></h2>
+
+<br><br>
 <markdown-accessiblity-table data-catalyst="">
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
     <thead>
