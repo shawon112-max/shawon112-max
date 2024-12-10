@@ -7,7 +7,7 @@
 </h3>
 
 
-<h2 align="center">A Passionate Full Stack Web Developer from India</h2>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <br><br>
 
