@@ -152,6 +152,10 @@
 <h2 align='center'><i>Github Analytics ⚙️</i></h2>
 
 <br><br>
+
+
+<img width="100%" src="./profile-3d-contrib/profile-night-green.svg"/>
+
 <markdown-accessiblity-table data-catalyst="">
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
     <thead>
