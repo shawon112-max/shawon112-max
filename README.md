@@ -2,12 +2,16 @@
 <h1 align="center">Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Abhishek Singh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 
 </p>
 
 
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
+
+<br><br>
+
+
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek249494" /> </p>
