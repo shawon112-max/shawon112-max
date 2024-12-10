@@ -39,7 +39,7 @@
 
 
 <div align="center">
-<h2 align='center'><i>Socials and Coding Profiles 💻</i></h2>
+<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
 
  <br><br>
 <a href="https://www.linkedin.com/in/abhisheksingh2494/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -73,11 +73,8 @@
 
 
 <div align="center">
-<h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
-
-<br><br>
-
- 
+<h2 align='center'><strong>Languages, Tools and Technologies 🚀 </strong></h2>
+	<br>
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
@@ -153,9 +150,9 @@
 </div>
 
 <div align="center">
-<h2 align='center'><i>Github Analytics ⚙️</i></h2>
+<h2 align='center'><strong>Github Analytics ⚙️</strong></h2>
 
-<br><br>
+<br>
 
 
 
