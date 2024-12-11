@@ -17,10 +17,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center"><strong> Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Abhishek Singh </strong></h1>
 
+<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944b60-96dc-4ae5-9486-f981d5842975/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkOTQ0YjYwLTk2ZGMtNGFlNS05NDg2LWY5ODFkNTg0Mjk3NVwvZDFwMGtyMi05MzFjOTkxYS05MDZjLTQ0ZGUtOWZmYS0wZjY1NGJjMzEwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mWAenByMAJlSrMsEbMShKRx2DyaIeaCsH55QMdQKKQ0"  width="174" height="190">
+
+<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e280c4ea-3737-40de-bfe8-93c09cd205ab/d2gidiv-f6de1e83-7c0a-4cdd-9e29-4ea98038efb0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UyODBjNGVhLTM3MzctNDBkZS1iZmU4LTkzYzA5Y2QyMDVhYlwvZDJnaWRpdi1mNmRlMWU4My03YzBhLTRjZGQtOWUyOS00ZWE5ODAzOGVmYjAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mCA_nWZttjTI4YrCRWIIYSQrzqIvYf5KvamLT6ebo6s"  width="174" height="190">
+
+
+
+
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 
 </h3>
+
+
 
 
 <h3 align="center"><strong> A Passionate Full Stack Web Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
