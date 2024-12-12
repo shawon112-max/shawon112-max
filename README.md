@@ -180,7 +180,7 @@
 
 
 <div align="center">
-<h2 align='center'><strong>Github Analytics ⚙️</strong></h2>
+<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 
 <br>
 
