@@ -15,9 +15,10 @@
 
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center"><strong> Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm </strong>
-	
-<img src="./assets/myname.svg"  alt="Abhishek"/> </h1>
+
+
+
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek Singh"/></h1>
 
 
 
