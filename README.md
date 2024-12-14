@@ -174,7 +174,7 @@
 </table>
 </div>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+<img src="https://i.pinimg.com/originals/61/2e/59/612e5980dfcff178712d433add7fce94.gif" alt="Kawaii" width="100" height="100" align="left"/>
 
 <br/>
 <br/>
