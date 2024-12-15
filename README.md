@@ -41,7 +41,7 @@
 
 
 
-- 🔭 I’m currently working on **careertronics.in**
+- 🔭 I’m currently working on **careertronic.com**
 
 - 🌱 I’m currently learning **Three.js,DSA**
 
