@@ -58,7 +58,6 @@
 </div>
 
 
-
 <div align="center">
 <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
 
