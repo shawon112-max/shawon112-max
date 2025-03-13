@@ -149,7 +149,6 @@
 
 
 
-
 <markdown-accessiblity-table data-catalyst="">
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
     <thead>
