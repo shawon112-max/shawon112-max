@@ -129,7 +129,6 @@
 
 <br><br>
 
-
 </table>
 </div>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
