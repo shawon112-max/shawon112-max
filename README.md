@@ -84,7 +84,7 @@
 	</tr>
 	<tr>
 		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=py,django&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=php,laravel&theme=dark"></td>
 	</tr>
 	<tr>
 	<tr>
