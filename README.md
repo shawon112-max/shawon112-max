@@ -159,7 +159,7 @@
           </a>
         </th>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=The-Ridwanur Rahman&show_icons=true&locale=en">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/shawon112-max?tab=repositories&show_icons=true&locale=en">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Ridwanur Rahman&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
         </th>
