@@ -119,7 +119,7 @@
 	<tr>
 		<td><strong>Operating System</strong></td>
 		<td>
-		 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+		 
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		</td>
 	</tr>
