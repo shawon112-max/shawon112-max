@@ -15,15 +15,15 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek Singh"/></h1>
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Md Ridwanur Rahman"/></h1>
 
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+&+Technology+Student;Full+Stack+Developer;WordPress+Expert;IT+Enthusiast;" alt="Typing SVG" />
 
 </h3>
 
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionate Full Stack Web Developer from Bangladesh </strong> </h3>
 
 <br><br>
 
@@ -32,17 +32,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="abhishek249494" /> </p>
 
 
-- 🔭 I’m currently working on **careertronic.com**
+- 🔭 I’m currently studing on **[Naogaon Govt Polytechnic Institute, Bangladesh](https://npi.gov.bd/)**
 
-- 🌱 I’m currently learning **Three.js,DSA**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **javaScript,React,Python,C++**
+- 💬 Ask me about **javaScript,React,Tailwind, php**
 
-- 📫 reach me @  **abhi120730@gmail.com**
+- 📫 reach me @  **ridwanur89@gmail.com**
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchain, and DSA**
+- 👀 I’m interested in **Web Development, UI/UX Design & Blockchain Technology**
   
 - ⚡ Fun fact **I am a Funny webber🕸️🕸️**
 
@@ -56,13 +56,13 @@
 <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
 
  <br><br>
-<a href="https://www.linkedin.com/in/abhishekdata100/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/md-ridwanur-rahman-548822309/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ridwanur89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
  
-<a href="https://www.codechef.com/users/abhishek9424" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Abhishek2494/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-  <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
+<a href="https://github.com/shawon112-max/" target="_blank"><img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.instagram.com/offex_r.shawon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.facebook.com/ridwanur.rahman.shawon/" target="_blank"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook" /></a>
   
 </a>
 
