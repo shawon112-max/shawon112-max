@@ -16,12 +16,53 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <br>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
+<br/>
+<br/>
+
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
+</br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Hi+💪+!+I'm+Md+Ridwanur+Rahman+A+Web+Developer+from+Bangladesh!)](https://git.io/typing-svg)
 
 ###
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+&+Technology+Student;Full+Stack+Developer;WordPress+Expert;IT+Enthusiast;" alt="Typing SVG" />
+<br><br>
+
+ <div align="right" justify-content="right" display="flex">
+ <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon112-max&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="abhishek249494" /> </p>
+
+<div align="left" justify-content="left">
+- 📚 I am studying **Diploma in Engineering**
+
+- 🌱 I’m currently learning **Three.js,DSA**
+
+- 💬 Ask me about **javaScript,React,Python,C++**
+
+- 📫 reach me @  **abhi120730@gmail.com**
+
+- 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
+
+- 👀 I’m interested in **Web Development, Blockchainㅤ,and AI Machine Learning**
+  
+- ⚡ Fun fact **I am a Funny webber🕸️🕸️**
+</div>
+
+
+
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 </h3>
 <div align="center">
@@ -77,19 +118,26 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+<br><br>
 
 ###
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+<br>
+<table>
+   <tr>
+        <td  colspan="2" align="center"> 
+		<br>
+	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+		
+<picture>
+  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Sing/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+	</td>
+	</tr>
+</table>
+<br>
 
-<br/>
-<br/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shawon112-max/shawon112-max/output/snake.svg" alt="Snake animation" />
 
 ###
 
