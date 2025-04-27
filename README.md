@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Hi+💪+!+Md+Ridwanur+Rahman+A+Web+Developer+from+Bangladesh!)](https://git.io/typing-svg)
 <div align="center">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,7 +17,7 @@
 
 <br>
 
-<h2 align="center">Hi <src><img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/></src>! My name is Md Ridwanur Rahman <br> I'm a Web Develpoer from Bangladesh</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Hi+💪+!+I'm+Md+Ridwanur+Rahman+A+Web+Developer+from+Bangladesh!)](https://git.io/typing-svg)
 
 ###
 <h3 align="center">
