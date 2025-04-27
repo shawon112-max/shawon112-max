@@ -51,7 +51,7 @@
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchainㅤ,and AI Machine Learning**
+- 👀 I’m interested in **Web Development, Blockchain, and AI Machine Learning**
   
 - ⚡ Fun fact **I am a Funny webber🕸️🕸️**
 </div>
