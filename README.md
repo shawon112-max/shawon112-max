@@ -43,15 +43,15 @@
 <div align="left" justify-content="left">
 - 📚 I am studying **Diploma in Engineering**
 
-- 🌱 I’m currently learning **Three.js,DSA**
+- 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **javaScript,React,Python,C++**
+- 💬 Ask me about **javaScript,React,Tailwind**
 
-- 📫 reach me @  **abhi120730@gmail.com**
+- 📫 reach me @  **ridwanur89@gmail.com**
 
-- 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
+- 👯 I’m looking to collaborate on **Open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchain, and AI Machine Learning**
+- 👀 I’m interested in **Web Development, Blockchain & AI Machine Learning**
   
 - ⚡ Fun fact **I am a Funny webber🕸️🕸️**
 </div>
