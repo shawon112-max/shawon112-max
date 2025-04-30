@@ -34,26 +34,23 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+&+Technology+Student;Full+Stack+Developer;WordPress+Expert;IT+Enthusiast;" alt="Typing SVG" />
 <br><br>
 
- <div align="right" justify-content="right" display="flex">
- <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
-</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon112-max&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="abhishek249494" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon112-max&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="shawon112-max" /> </p>
 
-<div align="left" justify-content="left">
-- 📚 I am studying **Diploma in Engineering**
+<div align="center" justify-content="center">
+ 📚 I am studying **Diploma in Engineering**
 
-- 🌱 I’m currently learning **Three.js**
+🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **javaScript,React,Tailwind**
+💬 Ask me about **javaScript,React,Tailwind**
 
-- 📫 reach me @  **ridwanur89@gmail.com**
+📫 reach me @  **ridwanur89@gmail.com**
 
-- 👯 I’m looking to collaborate on **Open-source projects related to Web Development**
+👯 I’m looking to collaborate on **Open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchain & AI Machine Learning**
+👀 I’m interested in **Web Development, Blockchain & AI Machine Learning**
   
-- ⚡ Fun fact **I am a Funny webber🕸️🕸️**
+⚡ Fun fact **I am a Funny webber🕸️🕸️**
 </div>
 
 
@@ -67,7 +64,7 @@
 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shawon112-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=shawon112-max&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
 </div>
 
 ###
