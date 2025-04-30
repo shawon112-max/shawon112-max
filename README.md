@@ -37,8 +37,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon112-max&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="shawon112-max" /> </p>
 
-<div align="center" justify-content="center">
+<div align="left" justify-content="center">
  📚 I am studying **Diploma in Engineering**
+ <br><br>
 
 🌱 I’m currently learning **Three.js**
 
